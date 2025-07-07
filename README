@@ -1,1 +1,1 @@
-THIS SPACE INTENTIONALLY LEFT BLANK
+I'm willing to admint that I probably don't understand git/hub if I think this is necessary but it does make the possibility of automated regressions easier if there are known checkpoints on top of the live development and live commit branches.
